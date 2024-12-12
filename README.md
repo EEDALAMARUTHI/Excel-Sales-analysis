@@ -1,8 +1,5 @@
 # Excel-Sales-analysis
 
-Here is a detailed and structured README file template based on the content of the reports you uploaded. This template assumes your GitHub repository contains the analyses and data visualizations related to AtliQ Hardware's financial and operational performance.
-
----
 
 # AtliQ Hardware Performance Analysis
 
@@ -61,7 +58,7 @@ The primary objective of this repository is to consolidate the data into actiona
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AtliQ-Hardware-Performance-Analysis.git
+   git clone 
    cd AtliQ-Hardware-Performance-Analysis
    ```
 
