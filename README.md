@@ -48,17 +48,18 @@ The primary objective of this repository is to consolidate the data into actiona
 ## Key Insights
 
 1. **Customer Performance**
+   
    📊Significant growth in online retail platforms like Amazon and Flipkart from 2019 to 2021.  
    📊Emerging markets have shown exponential growth in net sales and gross margins.
 
-2. **Fiscal Year Trends**
+3. **Fiscal Year Trends**
    📊FY 2021 recorded a substantial increase in net sales compared to FY 2020, with notable growth in Q1 and Q3.
 
-3. **Regional Performance**
+4. **Regional Performance**
    📊India emerged as a leading region in terms of net sales, contributing significantly to gross margins in FY 2021.  
    📊Steady growth observed in North America (NA) and Europe (NE).
 
-4. **Profitability by Subzones**
+5. **Profitability by Subzones**
    📊ANZ and ROA consistently delivered high gross margins across the analyzed fiscal years.  
    📊India's GM% showed a declining trend due to increased costs.
   
