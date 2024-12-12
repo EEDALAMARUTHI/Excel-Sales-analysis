@@ -12,7 +12,7 @@ The primary objective of this repository is to consolidate the data into actiona
 ---
 
 # Tools Perofrmed and Functions applied
-  -Data Cleaning
+  ➡️Data Cleaning
   -Vlookup functions
   -Index Match
   -Data Transformation
