@@ -53,13 +53,16 @@ The primary objective of this repository is to consolidate the data into actiona
    📊Emerging markets have shown exponential growth in net sales and gross margins.
 
 3. **Fiscal Year Trends**
+ 
    📊FY 2021 recorded a substantial increase in net sales compared to FY 2020, with notable growth in Q1 and Q3.
 
-4. **Regional Performance**
+5. **Regional Performance**
+ 
    📊India emerged as a leading region in terms of net sales, contributing significantly to gross margins in FY 2021.  
    📊Steady growth observed in North America (NA) and Europe (NE).
 
-5. **Profitability by Subzones**
+7. **Profitability by Subzones**
+ 
    📊ANZ and ROA consistently delivered high gross margins across the analyzed fiscal years.  
    📊India's GM% showed a declining trend due to increased costs.
   
